@@ -1,8 +1,8 @@
-- 👋 Hi, I’m RJ47min
-- 👀 I’m interested in Coding, Music Making, Digital Art, Animation and Games
-- 🌱 I’m currently learning Intermediate FNF Coding
-- 💞️ I’m looking to collaborate on FNF Mods
-- 📫 How to reach me on Discord (!Daniel/RJ47min!#7497) and Twitter (@RJ47min)
+- 👋 Heya, I’m DianeSilva
+- 👀 I’m interested in Video Games (specifically horror, survival and rhythm games), Coding and Meeting new people
+- 🌱 I’m currently learning Video Game development in Unity
+- 💞️ I’m looking to collaborate on music and FNF mods
+- 📫 How to reach me on Discord (just friend me "dianesilva" is my username)
 
 <!---
 RJGaming-coder/RJGaming-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
